@@ -1967,7 +1967,6 @@ async function startServer() {
   const distPath = path.join(__dirname, 'dist');
 
 // Serve the built frontend whenever dist/index.html exists.
-// This is the correct mode for Render deployment.
 if (fs.existsSync(path.join(distPath, 'index.html'))) {
   app.use(express.static(distPath));
 
@@ -1975,7 +1974,7 @@ if (fs.existsSync(path.join(distPath, 'index.html'))) {
     res.sendFile(path.join(distPath, 'index.html'));
   });
 } else {
-  // Only use Vite development server when running locally
+  // Use Vite development server when running locally
   // without a production build.
   try {
     const { createServer: createViteServer } = await import('vite');
@@ -1998,3 +1997,7 @@ const port = Number(process.env.PORT) || 3000;
 app.listen(port, '0.0.0.0', () => {
   console.log(`Server running at http://0.0.0.0:${port}`);
 });
+
+}
+
+startServer();
