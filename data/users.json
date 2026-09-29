@@ -1,0 +1,62 @@
+[
+  {
+    "id": "USR-ADMIN-001",
+    "name": "Dr. Rajeshwar Rao",
+    "email": "admin@nirvana.demo",
+    "passwordHash": "6331945eeef2d07d94385c0887d09069c4bc1d31f02b0e87a4e007d7aab49f91c2874721d77f861859981e47dc5a7d5ebbb46293cdbc97c7d13e10335fb9e83b",
+    "salt": "321ba1df200503c3ef9b9540856c84dc",
+    "organization": "MoSPI / IPMD Central Administration",
+    "role": "ADMINISTRATOR",
+    "status": "ACTIVE",
+    "createdAt": "2026-08-01T09:00:00.000Z",
+    "lastLoginAt": "2026-09-29T19:31:56.605Z"
+  },
+  {
+    "id": "USR-OFFICER-002",
+    "name": "Durga Prasanthi",
+    "email": "officer@nirvana.demo",
+    "passwordHash": "084192035fc204806842400ee7ba95adbd62ee1e302a998c5c2ee11f667d46ce8c0bb2fd4d419b39ffccfd809cda44654b498dd982e19529f3c5401acbff60a4",
+    "salt": "880647005bf056f7d3e50248faea55f9",
+    "organization": "Infrastructure & Project Monitoring Division (IPMD)",
+    "role": "MONITORING_OFFICER",
+    "status": "ACTIVE",
+    "createdAt": "2026-08-01T09:00:00.000Z",
+    "lastLoginAt": "2026-09-29T19:19:31.713Z"
+  },
+  {
+    "id": "USR-ANALYST-003",
+    "name": "Vikramaditya Sen",
+    "email": "analyst@nirvana.demo",
+    "passwordHash": "a482aabeb1052d5b50f4c1ba8c9ee8b2922fcc3ac08566fdaf8ea9745bd1efcc04d2090ba7cb8147c5bd1f5853569428e311ab4e3a49edfa8aa034a4de774384",
+    "salt": "a2ba756a78b28772798988fdee8b4594",
+    "organization": "NITI Aayog — Infrastructure Policy & Benchmarking Cell",
+    "role": "POLICY_ANALYST",
+    "status": "ACTIVE",
+    "createdAt": "2026-08-01T09:00:00.000Z",
+    "lastLoginAt": "2026-09-29T19:24:36.493Z"
+  },
+  {
+    "id": "USR-VIEWER-004",
+    "name": "Ananya Sharma",
+    "email": "viewer@nirvana.demo",
+    "passwordHash": "c65ad9e9753fc0ef462bd2bd333b9a4a3b0be44f27d9f972e37499fb3ecf033e7249fc16a7c4f72d87f2ab41927202ad9678ccab551cc9349c3f544c720ad7b8",
+    "salt": "d789b4989dc3e7c4e2042d07d60723fc",
+    "organization": "Public Infrastructure Audit & Oversight Directorate",
+    "role": "VIEWER",
+    "status": "ACTIVE",
+    "createdAt": "2026-08-01T09:00:00.000Z",
+    "lastLoginAt": "2026-09-29T19:24:47.031Z"
+  },
+  {
+    "id": "USR-MUN2LB4D",
+    "name": "Prasanthi Pothireddi",
+    "email": "p.prasanthi164@gmail.com",
+    "passwordHash": "c5887fd86adb372d558d964309ea6c86fbe7ad9a1bfa65ccdaeab437ad33bc9e90f3adf2a9b36024ad0c5fb7ee86f012071ad57938b7876a2600458e25c266d0",
+    "salt": "7472bb98e37e70f0ec0bd7e533633067",
+    "organization": "Aditya University",
+    "role": "VIEWER",
+    "status": "ACTIVE",
+    "createdAt": "2026-09-29T19:29:15.662Z",
+    "lastLoginAt": "2026-09-29T19:29:36.415Z"
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "id": "AUD-1790710316608-JEDG",
+    "userId": "USR-ADMIN-001",
+    "userName": "Dr. Rajeshwar Rao",
+    "userEmail": "admin@nirvana.demo",
+    "role": "ADMINISTRATOR",
+    "action": "LOGIN",
+    "details": "Authenticated session initiated (ADMINISTRATOR)",
+    "timestamp": "2026-09-29T19:31:56.608Z"
+  },
+  {
+    "id": "AUD-1790710299306-7NMH",
+    "userId": "USR-MUN2LB4D",
+    "userName": "Prasanthi Pothireddi",
+    "userEmail": "p.prasanthi164@gmail.com",
+    "role": "VIEWER",
+    "action": "LOGOUT",
+    "details": "User terminated active session and invalidated bearer token",
+    "timestamp": "2026-09-29T19:31:39.306Z"
+  },
+  {
+    "id": "AUD-1790710176419-CBX9",
+    "userId": "USR-MUN2LB4D",
+    "userName": "Prasanthi Pothireddi",
+    "userEmail": "p.prasanthi164@gmail.com",
+    "role": "VIEWER",
+    "action": "LOGIN",
+    "details": "Authenticated session initiated (VIEWER)",
+    "timestamp": "2026-09-29T19:29:36.419Z"
+  },
+  {
+    "id": "AUD-1790710155668-KF7C",
+    "userId": "USR-MUN2LB4D",
+    "userName": "Prasanthi Pothireddi",
+    "userEmail": "p.prasanthi164@gmail.com",
+    "role": "VIEWER",
+    "action": "REGISTER",
+    "details": "New user registered under organization 'Aditya University' with role VIEWER",
+    "timestamp": "2026-09-29T19:29:15.668Z"
+  },
+  {
+    "id": "AUD-1790710067054-LK8S",
+    "userId": "USR-ADMIN-001",
+    "userName": "Dr. Rajeshwar Rao",
+    "userEmail": "admin@nirvana.demo",
+    "role": "ADMINISTRATOR",
+    "action": "LOGOUT",
+    "details": "User terminated active session and invalidated bearer token",
+    "timestamp": "2026-09-29T19:27:47.054Z"
+  },
+  {
+    "id": "AUD-1790710035943-GMYQ",
+    "userId": "USR-ADMIN-001",
+    "userName": "Dr. Rajeshwar Rao",
+    "userEmail": "admin@nirvana.demo",
+    "role": "ADMINISTRATOR",
+    "action": "LOGIN",
+    "details": "Authenticated session initiated (ADMINISTRATOR)",
+    "timestamp": "2026-09-29T19:27:15.943Z"
+  },
+  {
+    "id": "AUD-1790709910321-OVSF",
+    "userId": "USR-VIEWER-004",
+    "userName": "Ananya Sharma",
+    "userEmail": "viewer@nirvana.demo",
+    "role": "VIEWER",
+    "action": "LOGOUT",
+    "details": "User terminated active session and invalidated bearer token",
+    "timestamp": "2026-09-29T19:25:10.321Z"
+  },
+  {
+    "id": "AUD-1790709887034-OASZ",
+    "userId": "USR-VIEWER-004",
+    "userName": "Ananya Sharma",
+    "userEmail": "viewer@nirvana.demo",
+    "role": "VIEWER",
+    "action": "LOGIN",
+    "details": "Authenticated session initiated (VIEWER)",
+    "timestamp": "2026-09-29T19:24:47.034Z"
+  },
+  {
+    "id": "AUD-1790709884729-MC8X",
+    "userId": "USR-ANALYST-003",
+    "userName": "Vikramaditya Sen",
+    "userEmail": "analyst@nirvana.demo",
+    "role": "POLICY_ANALYST",
+    "action": "LOGOUT",
+    "details": "User terminated active session and invalidated bearer token",
+    "timestamp": "2026-09-29T19:24:44.729Z"
+  },
+  {
+    "id": "AUD-1790709876497-8MAN",
+    "userId": "USR-ANALYST-003",
+    "userName": "Vikramaditya Sen",
+    "userEmail": "analyst@nirvana.demo",
+    "role": "POLICY_ANALYST",
+    "action": "LOGIN",
+    "details": "Authenticated session initiated (POLICY_ANALYST)",
+    "timestamp": "2026-09-29T19:24:36.497Z"
+  },
+  {
+    "id": "AUD-1790709873177-OM9O",
+    "userId": "USR-ADMIN-001",
+    "userName": "Dr. Rajeshwar Rao",
+    "userEmail": "admin@nirvana.demo",
+    "role": "ADMINISTRATOR",
+    "action": "LOGOUT",
+    "details": "User terminated active session and invalidated bearer token",
+    "timestamp": "2026-09-29T19:24:33.177Z"
+  },
+  {
+    "id": "AUD-1790709769257-VUBN",
+    "userId": "USR-ADMIN-001",
+    "userName": "Dr. Rajeshwar Rao",
+    "userEmail": "admin@nirvana.demo",
+    "role": "ADMINISTRATOR",
+    "action": "LOGIN",
+    "details": "Authenticated session initiated (ADMINISTRATOR)",
+    "timestamp": "2026-09-29T19:22:49.257Z"
+  },
+  {
+    "id": "AUD-1790709763016-NLZI",
+    "userId": "USR-OFFICER-002",
+    "userName": "Durga Prasanthi",
+    "userEmail": "officer@nirvana.demo",
+    "role": "MONITORING_OFFICER",
+    "action": "LOGOUT",
+    "details": "User terminated active session and invalidated bearer token",
+    "timestamp": "2026-09-29T19:22:43.016Z"
+  },
+  {
+    "id": "AUD-1790709571722-PFWA",
+    "userId": "USR-OFFICER-002",
+    "userName": "Durga Prasanthi",
+    "userEmail": "officer@nirvana.demo",
+    "role": "MONITORING_OFFICER",
+    "action": "LOGIN",
+    "details": "Authenticated session initiated (MONITORING_OFFICER)",
+    "timestamp": "2026-09-29T19:19:31.722Z"
+  },
+  {
+    "id": "AUD-1790709369657-RJ3G",
+    "userId": "USR-ANALYST-003",
+    "userName": "Vikramaditya Sen",
+    "userEmail": "analyst@nirvana.demo",
+    "role": "POLICY_ANALYST",
+    "action": "EXPORT_REPORT",
+    "details": "Generated Sector & Ministry Benchmarking Executive PDF Brief",
+    "timestamp": "2026-09-29T19:16:09.657Z"
+  },
+  {
+    "id": "AUD-1790709369655-FEU4",
+    "userId": "USR-OFFICER-002",
+    "userName": "Durga Prasanthi",
+    "userEmail": "officer@nirvana.demo",
+    "role": "MONITORING_OFFICER",
+    "action": "VIEW_PROJECT",
+    "details": "Inspected High-Risk Corridor Telemetry & Cost Escalation Watchlist",
+    "timestamp": "2026-09-29T19:16:09.655Z"
+  },
+  {
+    "id": "AUD-1790709369654-E6ND",
+    "userId": "USR-ADMIN-001",
+    "userName": "Dr. Rajeshwar Rao",
+    "userEmail": "admin@nirvana.demo",
+    "role": "ADMINISTRATOR",
+    "action": "UPLOAD_DATA",
+    "details": "Ingested MoSPI/IPMD Central Sector Infrastructure Projects Dataset (289 projects)",
+    "timestamp": "2026-09-29T19:16:09.654Z"
+  }
+]
